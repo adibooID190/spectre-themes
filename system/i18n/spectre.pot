@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Spectre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-16 05:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: system/widgets.php:17
+msgid "Bilah Sisi Kanan"
+msgstr ""
+
+#: system/widgets.php:19 system/widgets.php:29 system/widgets.php:40
+#: system/widgets.php:51 system/widgets.php:61 system/widgets.php:72
+#: system/widgets.php:83
+msgid "Tambahkan widget dengan menggeret bilah sisi yang tersedia"
+msgstr ""
+
+#: system/widgets.php:27
+msgid "Bilah Sisi Kiri"
+msgstr ""
+
+#: system/widgets.php:38
+msgid "Jumbotron"
+msgstr ""
+
+#: system/widgets.php:49
+msgid "Kaki Kiri"
+msgstr ""
+
+#: system/widgets.php:59
+msgid "Kaki Tengah Kiri"
+msgstr ""
+
+#: system/widgets.php:70
+msgid "Kaki Tengah Kanan"
+msgstr ""
+
+#: system/widgets.php:81
+msgid "Kaki Kanan"
+msgstr ""
+
+#: system/core.php:32
+msgid "Navigasi Atas"
+msgstr ""
+
+#: system/core.php:33
+msgid "Navigasi Kontak"
+msgstr ""
+
+#: system/core.php:34
+msgid "Navigasi Kaki"
+msgstr ""
+
+#: system/customizer.php:21
+msgid "Pengaturan Tema"
+msgstr ""
+
+#: system/customizer.php:22
+msgid "Aturlah tema anda sesuai yang anda inginkan."
+msgstr ""
+
+#: system/customizer.php:26
+msgid "Bagian Kepala Laman"
+msgstr ""
+
+#: system/customizer.php:27
+msgid "Bagian navigasi sampai jumbotron saja."
+msgstr ""
+
+#: system/customizer.php:35
+msgid "Tipe Jumbotron"
+msgstr ""
+
+#: system/customizer.php:49
+msgid "Tombol Pencarian"
+msgstr ""
+
+#: system/customizer.php:50
+msgid "Aktifkan saja jika anda menghendakinya."
+msgstr ""
+
+#. Name of the theme
+msgid "Spectre"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Mau ngeblog? Tapi tema tidak sebagus dan sesuai dengan ekspektasi anda? Kami "
+"hadir membawa berita baik untuk anda. Kami menghadirkan tema ini sesuai "
+"harapan anda. Dengan konsep 3 dalam 1, kami membuat tema ini menjadi menjadi "
+"fleksibel untuk dikustomisasi menjadi blog, situs dan toko online. Dengan "
+"meggunakan Bootstrap 4, dijamin responsif di segala perangkat."
+msgstr ""
+
+#. URI of the theme
+msgid "https://member.garudacyberid.xyz/produk/bootstrap-4/spectre/"
+msgstr ""
+
+#. Author of the theme
+msgid "Amir Zuhdi Wibowo (Adiboo Developers Indonesia)"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.kangamir.ga"
+msgstr ""
